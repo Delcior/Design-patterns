@@ -1,3 +1,3 @@
 ﻿# Design-patterns
 
-Repository contains implemented in C++ design patterns with UML diagrams.
+Repository contains design patterns implemented in C++ (with UML diagrams).
